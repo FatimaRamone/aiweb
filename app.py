@@ -1,19 +1,38 @@
 import os
-from dotenv import load_dotenv  # Importa la librería para cargar el archivo .env
+from dotenv import load_dotenv  # Para cargar las variables de entorno desde el archivo .env
 from flask import Flask, render_template, request, jsonify
-from langchain.chat_models import ChatOpenAI
+from langchain_community.chat_models import ChatOpenAI  # Cambié la importación según la advertencia
 from langchain.prompts import PromptTemplate
 from langchain.chains import LLMChain
+import pinecone
+from pinecone import Pinecone, ServerlessSpec
 
 # Cargar las variables del archivo .env
 load_dotenv()
 
-# Obtener la API Key desde las variables de entorno
+# Obtener las API Keys desde las variables de entorno
 openai_api_key = os.getenv("OPENAI_API_KEY")
+pinecone_api_key = os.getenv("PINECONE_API_KEY")
+pinecone_environment = os.getenv("PINECONE_ENVIRONMENT")
 
-# Configura tu API Key de OpenAI (si no se carga, se podría manejar un error)
+# Configura tu API Key de OpenAI
 if not openai_api_key:
     raise ValueError("La clave de API de OpenAI no está configurada correctamente.")
+
+# Inicializar Pinecone
+pc = Pinecone(api_key=pinecone_api_key, environment=pinecone_environment)
+
+# Crear el índice si no existe (ajustar las dimensiones según el modelo que estés usando)
+if 'my-index' not in pc.list_indexes().names():
+    pc.create_index(
+        name='my-index',  # Nombre en minúsculas y sin caracteres especiales
+        dimension=1536,  # Ajusta la dimensión según el modelo de vectores que estés usando
+        metric='euclidean',  # O el tipo de métrica que prefieras
+        spec=ServerlessSpec(
+            cloud='aws',  # O ajusta el proveedor de la nube según tu preferencia
+            region='us-east-1'  # Cambié la región a 'us-east-1'
+        )
+    )
 
 # Crea el modelo de chat usando LangChain
 chat = ChatOpenAI(model="gpt-3.5-turbo", openai_api_key=openai_api_key)
