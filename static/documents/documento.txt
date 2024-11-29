@@ -1,0 +1,558 @@
+Name: Fatima Pita Perez  
+Location: Ferrol, 15406  
+Phone: +34 625 755 334  
+Email: fatimapitaemail@gmail.com  
+GitHub: https://fatimaramone.github.io/  
+LinkedIn: https://www.linkedin.com/in/fatima-pita-b6a2a6125/  
+
+Summary:  
+Fatima is a highly motivated and results-oriented web developer with 3 years of experience in software development. She transitioned into the tech industry after a diverse career in event coordination and stage management. Fatima prides herself on writing consistent code and solving problems until solutions are found. Her unique background provides her with strong organizational and problem-solving skills that enhance her work in software projects.
+
+Technical Skills:  
+Programming Languages: Python, JavaScript, Kotlin, HTML5, CSS, SQL, PHP, Java  
+Web Frameworks: Flask, Django, FastAPI  
+Other Frameworks and Libraries: Langchain, Selenium, SQLAlchemy, React, Node.js, Android SDK, ML Kit, Room Database  
+Tools and Technologies: Git, Hugging Face, REST, SOAP, API Development, Web Services, JSON, MVVM Architecture, PowerShell, ChromeDriver  
+
+Professional Experience:  
+Backend Developer (Internship), 3.14 Financial Contents (April 2024 - May 2024):  
+- Gained experience in backend development using Python, worked with Langchain for Machine Learning, participated in meetings and presentations.  
+
+Full Stack Web Developer (Internship), 2ksystems (September 2023 - October 2023):  
+- Developed skills in JavaScript and gained insight into the software development industry.  
+
+TESOL Freelancer, Fiverr (March 2020 - November 2022):  
+- Provided online Spanish lessons and completed translation projects while traveling Europe.  
+
+Event Coordinator, Vice Media (February 2019 - March 2020):  
+- Managed event logistics, promotion, and talent selection at the "Old Blue Last" venue in London.  
+
+Assistant Stage Manager, The London Theatre (September 2016 - November 2018):  
+- Managed events, provided artist support, coordinated theatrical projects and children's programs.  
+
+Assistant Stage Manager, Barbican Center (April 2016 - September 2016):  
+- Participated in the production of "Cathy Come Home," gaining valuable stage management experience.  
+
+Event Coordinator, The Brixton Jamm (December 2012 - February 2016):  
+- Supervised staff, managed inventory, handled cash, organized events including marketing, promotion, and talent booking.  
+
+Education:  
+Higher Technician in Web Application Development, Rodolfo Ucha Piñeiro (September 2023 - Present)  
+Cybersecurity (420 hours) (December 2023 - March 2024)  
+Web Application Development with Web Technologies (615 hours) (May 2023 - September 2023)  
+Object-Oriented Programming and Relational Databases (710 hours) (November 2022 - April 2023)  
+
+Languages:  
+English: Native (10 years of residency in London)  
+
+Projects:  
+DNS Management with DigitalOcean:  
+- A project where DNS records (CNAME and NS) were managed for the custom domain fatimapita.com using DigitalOcean. This involved configuring CNAME to point to a hosting service and setting up NS records for proper domain resolution.  
+
+Analytics Integration with Google Analytics 4 (GA4):  
+- Integrated Google Analytics 4 (GA4) into a website for traffic analysis and performance tracking. Used Google Tag Manager to deploy the Google Tag on the site, enabling detailed visitor data collection and analysis for optimizing user engagement.  
+
+Flask Basic Web App:  
+- A simple web application created with Flask, demonstrating routing, HTML templates, and basic web app structure.  
+
+Android Text Recognition App:  
+- An Android application using Kotlin, ML Kit for text recognition, and Room database for local data storage.  
+
+PCComponentes Web Scraper:  
+- A Python script that uses Selenium WebDriver to scrape product information (name, price, discounts) from PCComponentes and save it to a CSV file.  
+
+Automated HTML File Upload to Git:  
+- A PowerShell script that renames an HTML file with a timestamp and uploads it to a Git repository.  
+
+Image Classification with TensorFlow and Flask:  
+- A project that trains a CNN model on the Fashion MNIST dataset to classify images of clothing and uses Flask to create an HTTP server for predictions.  
+
+Rich Text Editor with Konva.js:  
+- A project utilizing Quill and Konva.js to build a rich text editor with the ability to export content as a JPG image.  
+
+JavaScript Form Validation:  
+- A script implementing real-time form validation using JavaScript, including checks for names, NIF, email, phone number, date of birth, and character limits.  
+
+Android Manifest for Camera and Flashlight App:  
+- Creation of an Android Manifest file defining permissions for an app using the camera and flashlight features.  
+
+"Fortune Cookies" HTML Page:  
+- An interactive HTML page that generates motivational phrases and floating heart animations when a button is clicked.  
+
+Basic FastAPI Web App:  
+- A basic example of a FastAPI web application that serves a static HTML file.  
+
+Zalando Image Classification Server:  
+- A project involving the development of an image classification model using TensorFlow and Fashion MNIST dataset, implemented as a web server using BaseHTTPRequestHandler to handle image prediction requests.  
+
+Additional Information:  
+Fatima is a highly motivated and passionate developer with a unique background in event coordination and stage management. She brings exceptional problem-solving skills and a results-driven mindset to her work in software development.  
+
+
+FATIMA PITA PEREZ
+
+
+PROGRAMACIÓN CON LENGUAJES
+ORIENTADOS A OBJETOS Y BASES
+DE DATOS RELACIONALES 630 horas
+GIT
+Flask\Django
+FastAPI
+POO
+SQL
+PYTHON
+HTML5\CSS
+LANGCHAIN
+Javascript
++34 625 755 334
+Ferrol , 15406
+fatimapitaemail@gmail.com
+Sistemas operativos y aplicaciones informáticas.
+Programación de bases de datos relacionales
+Programacion orientada a objetos
+FÁTIMA
+PITA
+web developer
+Emigrante retornada (+8 años en Reino Unido).
+Background previo como ayudante de dirección de escena.
+Código consistente.No duermo hasta que resuelvo los fallos
+de integración.
+Trato familiar.
+CERTIFICADOS
+HERRAMIENTAS
+https://fatimaramone.github.io/
+Programación web en entorno cliente
+Programación web en entorno servidor
+IFC2010 DESARROLLO DE APLICACIONES
+Implantación de aplicaciones web en contornos
+internet , intranet e extranet
+Web scraping
+MF0492
+CON TECNOLOGÍAS WEB. 615 horas
+MF0491
+MF0493
+MF0223
+MF0226
+MF0227
+IFC080
+Seguridad en equipos informáticos
+Auditoria de seguridad informática
+IFCT 0109 SEGURIDAD INFORMÁTICA 420 horas
+Gestión de incidentes de seguridad informática
+MF0487_3
+MF0486_3
+MF0488_3
+Gestión de servicios en el sistema informáticoMF0489_3
+Sistemas seguros de acceso y transmisión de datosMF0489_3
+Kali linux
+EXPERIENCIA
+LABORAL
+-Fiverr -March 2020 -Nov 2022 TESOL Freelancer
+-2kSystems - Sept 2023 web development w/ JavaScript
+-Vice Media - Feb 2019 -March 2020 Event Coordinador Old
+Blue Last VICE venue
+-The London Theatre - Sept 2016 -Nov 2018 Assistant Stage
+Manager
+-Barbican Center - April 2016 -Sept 2016 Assistant Stage
+Manager
+TÉCNICO SUPERIOR EN DESARROLLO DE
+APLICACIONES WEB
+Rodolfo Ucha Piñeiro
+Sept 2023- actualmente
+-3.14 financial contents- Abril-Mayo 2024 machine
+learning w/ Langchain
+Inglés
+
+
+
+
+Experiencia laboral
+*  3.14 Financial Contents 
+Backend developer
+3.14 Financial Contents・Desarrollo de programación
+Abril de 2024 - Mayo de 2024 (1 mes)
+Becario/a - Prácticas
+Durante mis prácticas en 3,14, aprendí muchísimo. Formar parte del equipo, atender a reuniones, crear presentaciones y convocar reuniones fueron algunas de mis responsabilidades. Pero lo más importante fue mi introducción a la IA. Allí, aprendí frameworks como Langchain y muchos otros conceptos y herramientas de machine learning.
+   * REST
+   * Interfaz de programación de aplicaciones (API)
+   * Huggin Face
+   * Langchain
+   * Python
+   * SOAP
+   * FastAPI
+   *    *  2ksystems 
+Full Stack web developer
+2ksystems・Programación, Consultoria y otras Activ. informaticas
+Septiembre de 2023 - Octubre de 2023 (1 mes)
+Becario/a - Prácticas
+Durante mis prácticas en 2ksystems, tuve la oportunidad de adentrarme en el mundo de las empresas de software y obtener una visión interna de su funcionamiento. Durante este tiempo, adquirí conocimientos significativos sobre JavaScript. Estas experiencias me brindaron una base sólida para comprender los procesos y dinámicas propias de la industria del software, y me permitieron crecer tanto profesional como personalmente.
+      * Diseño con Javascript
+      * HTML5
+      * JSON
+      * Web Services
+      * CSS (Cascading Style Sheets)
+      *       *  Fiverr 
+Profesor/a de idiomas
+Fiverr・Traducción
+Marzo de 2020 - Noviembre de 2022 (2 años y 8 meses)
+14 € - 18 € Bruto/hora
+Empleado/a
+Durante mi estadía en Londres, perfeccioné mi inglés y tras unos años en la ciudad, decidí emprender un viaje por Europa. Para financiar mi travesía, me sumergí en el mundo del trabajo remoto. En Fiverr, ofrecí mis servicios como profesora de español para estudiantes, mayormente estadounidenses, y también realicé proyectos de traducción, abarcando desde panfletos hasta videojuegos. Este trabajo no solo me permitió mantenerme mientras viajaba, sino también expandir mis habilidades lingüísticas y profesionales en la enseñanza y la traducción, mientras disfrutaba de la flexibilidad para explorar diferentes lugares y culturas
+      *  Vice Media 
+Event coordinator
+Vice Media・Activ. audiovisuales (cine, TV, Radio, sonido, edic.musical etc.)
+Febrero de 2019 - Marzo de 2020 (1 año y 1 mes)
+Empleado/a
+Trabajé coordinando los eventos de Vice Media en su local de Soreditch "Old Blue Last",. Supervisé la logística de los eventos, colaborando estrechamente con el equipo de marketing para promover la asistencia. Mantuve registros detallados de asistencia y comentarios de los asistentes, y participé en la selección de talentos y en la administración del presupuesto asignado para cada evento. Mantuve una actualización constante sobre las tendencias de la industria de eventos y entretenimiento.
+      *  The London Theatre 
+Production coordinator/Stage manager
+The London Theatre・Activ. audiovisuales (cine, TV, Radio, sonido, edic.musical etc.)
+Septiembre de 2016 - Noviembre de 2018 (2 años y 2 meses)
+15.000 € - 25.000 € Bruto/año
+Dirección / gerencia con 1 - 5 personas a cargo
+Después de tres meses como becaria en The London Theatre, fui contratada como empleada, donde continué dirigiendo eventos y brindando apoyo a artistas, además de asumir nuevas responsabilidades en la gestión y coordinación de proyectos teatrales y programas comunitarios para niños.
+      *  Barbican Theatre 
+Production coordinator/Stage manager
+Barbican Theatre・Activ. audiovisuales (cine, TV, Radio, sonido, edic.musical etc.)
+Febrero de 2016 - Septiembre de 2016 (7 meses)
+12 € - 22 € Bruto/hora
+Empleado/a
+Tuve la oportunidad de trabajar como asistente de dirección de escena en el Teatro Barbican. Allí, participé en la producción "Cathy Come Home", basada en una obra de Ken Loach al cual tuve el honor de conocer. Esta experiencia , aunque sólo durara unos meses, me marcó bastante.
+      *  The Brixton Jamm 
+Event coordinator
+The Brixton Jamm・Publicidad, RRPP y eventos
+Diciembre de 2012 - Febrero de 2016 (3 años y 2 meses)
+18.000 € - 22.000 € Bruto/año
+Mando intermedio con 21 - 50 personas a cargo (reportando a Director general)
+Fue uno de los primeros trabajos que tuve en Londres . Brixton Jamm es uno de los mejores clubes de música de la ciudad, y yo empecé recogiendo vasos, luego fui camarera, y más tarde ascendí a supervisora, donde me encargaba de formar y supervisar a todos los camareros, así como de llevar el control de stock y caja. También fui responsable de formar a la persona que ocuparía mi puesto, ya que más tarde fui ascendida a las oficinas en el piso de arriba. Allí me formaron en la gestión de eventos, donde tenía trato directo con artistas y organizaba eventos, ocupándome del marketing, difusión en medios, promociones , tratos con marcas,tramitar solicitudes de talento emergente , etc
+Tienes 9 años y 10 meses de experiencia
+Estudios
+Estudios reglados
+         *  Técnico Superior en Desarrollo Aplicaciones Web             * Ciclo Formativo Grado Superior
+            * Técnico Superior en Desarrollo Aplicaciones Web
+Rodolfo Ucha Piñeiro
+Septiembre de 2023 - Actualmente (1 año y 2 meses)
+Estudios no reglados
+               *  Seguridad Informática. 420 horas                   * Otros cursos y formación no reglada
+                  * Seguridad Informática. 420 horas
+Diciembre de 2023 - Marzo de 2024 (3 meses)
+                  *  Desarrollo de Aplicaciones con Tecnologías Web. 615 horas                      * Otros cursos y formación no reglada
+                     * Desarrollo de Aplicaciones con Tecnologías Web. 615 horas
+Mayo de 2023 - Septiembre de 2023 (4 meses)
+                     *  Programación orientada a objetos y bases de datos relacionales. 710 horas                         * Otros cursos y formación no reglada
+                        * Programación orientada a objetos y bases de datos relacionales. 710 horas
+Noviembre de 2022 - Abril de 2023 (5 meses)
+Idiomas
+                           * Inglés: Nativo
+He vivido en Londres durante 10 años.
+Habilidades
+                              * DjangoFastAPIFlaskHTML5SeleniumSQLAlchemyCSS (Cascading Style Sheets)GitHugging FaceJavaScriptLangchainLLM´SPythonRAGSQLSQLiteJavaPHP
+Otros datos
+Permiso de conducir
+B
+Vehículo propio
+No
+Nacionalidad (país)
+España
+Permiso de trabajo
+Unión Europea
+Autónomo
+No
+Preferencias laborales
+Puesto deseado
+Web developer, Programador/a web, Programador/a Full Stack
+Modalidad
+Todas las modalidades
+Provincia deseada
+A Coruña
+Contrato
+Todos los contratos
+Jornada laboral
+Todas las jornadas
+
+
+
+
+
+
+
+
+
+
+
+
+Proyectos he he hecho : 
+
+
+Proyecto: Flask Web App Básica
+Este proyecto es una aplicación web simple creada con Flask. Incluye las siguientes funcionalidades:
+
+
+Página de Inicio (/): Muestra un mensaje de bienvenida.
+Página "About" (/about): Proporciona información general.
+Página "Amazing" (/amazing): Contenido motivacional con un toque personal.
+Propósito
+Este proyecto fue creado como parte de mi aprendizaje inicial en desarrollo web con Flask. Demuestra el manejo de rutas, plantillas HTML y la organización básica de una aplicación web.
+
+
+Tecnologías
+Python
+Flask
+HTML/CSS
+Lecciones Aprendidas
+Configuración básica de Flask.
+Uso de plantillas con render_template.
+Estructuración de una aplicación web básica.
+
+
+
+
+
+
+
+
+
+
+
+
+Proyecto: Aplicación Android con Reconocimiento de Texto y Base de Datos
+Este proyecto es una aplicación móvil Android que integra múltiples funcionalidades clave, como captura de imágenes, reconocimiento de texto con ML Kit, y operaciones con base de datos. A continuación, se describen sus principales características:
+Funcionalidades
+1. Captura de Imágenes
+                              * Permite a los usuarios tomar fotos usando la cámara del dispositivo.
+                              * La aplicación solicita permisos de cámara dinámicamente.
+2. Reconocimiento de Texto
+                              * Utiliza ML Kit para procesar imágenes y extraer texto.
+                              * El texto detectado se envía a una nueva actividad para su visualización o uso.
+3. Operaciones de Base de Datos
+                              * Incluye un repositorio para gestionar datos de usuarios.
+                              * Permite la inserción y observación de cambios en una base de datos local.
+Tecnologías Utilizadas
+                              * Lenguaje: Kotlin
+                              * Frameworks: Android SDK, ML Kit
+                              * Base de Datos: Room (implementado a través de UserRepository)
+                              * Arquitectura: MVVM con lifecycleScope
+Lecciones Aprendidas
+                              * Implementación de permisos en tiempo de ejecución.
+                              * Integración de ML Kit para tareas de visión por computadora.
+                              * Manejo de datos con Room y LiveData.
+                              * Uso de ActivityResultLauncher para manejar resultados de actividades.
+Cómo Ejecutarlo
+                              1. Clonar el repositorio.
+                              2. Configurar el entorno de desarrollo en Android Studio.
+                              3. Ejecutar la aplicación en un dispositivo o emulador con cámara habilitada.
+Este proyecto demuestra habilidades avanzadas en desarrollo móvil, incluyendo procesamiento de imágenes y persistencia de datos.
+4o
+
+
+
+
+
+
+
+
+
+
+ESCRAPEO PCCOMPONENTES
+
+
+
+
+
+
+Proyecto: Web Scraper de Productos con Selenium
+Este proyecto es un web scraper desarrollado en Python utilizando Selenium. Su propósito es extraer información de productos (nombre, precio y descuentos) de la página de PCComponentes y guardarla en un archivo CSV.
+Funcionalidades
+                              * Navegación automática a la página de productos.
+                              * Extracción de datos: Nombre, precio y descuento.
+                              * Almacenamiento de la información en un archivo CSV.
+                              * Manejo de esperas explícitas para asegurar la carga de elementos.
+                              * Gestión de excepciones para elementos faltantes o tiempos de espera agotados.
+Tecnologías
+                              * Python
+                              * Selenium WebDriver
+                              * ChromeDriver
+                              * CSV
+Requisitos
+                              1. Python instalado.
+                              2. ChromeDriver configurado.
+Instalar dependencias con:
+bash
+Copiar código
+pip install selenium
+                              3. Cómo Usarlo
+Ejecuta el script para iniciar el scraper:
+bash
+Copiar código
+python scraper.py
+                              1.                               2. El archivo productos_pccomponentes.csv se generará en el directorio actual.
+Notas
+Este proyecto es útil para automatizar la recolección de datos de sitios web con productos listados.
+
+
+
+
+
+
+
+
+
+
+
+
+—------------------
+
+
+
+
+
+
+
+
+—----------------------------
+
+
+
+
+
+
+Proyecto: Clasificación de Imágenes con TensorFlow y Flask
+Este proyecto utiliza TensorFlow para entrenar un modelo de red neuronal convolucional (CNN) sobre el conjunto de datos Fashion MNIST y un servidor HTTP implementado en Flask para proporcionar predicciones sobre imágenes de prendas de vestir.
+Funcionalidades
+                              1. Entrenamiento de un modelo CNN:
+                              * Utiliza TensorFlow para entrenar un modelo de clasificación de imágenes basado en el conjunto de datos Fashion MNIST.
+                              * El modelo tiene varias capas convolucionales, de pooling, y capas densas.
+                              2. Servidor HTTP para predicciones:
+                              * Implementa un servidor HTTP con Flask que recibe imágenes en formato JSON, las procesa y devuelve la predicción de la clase (ej. camiseta, pantalón, vestido).
+                              3. Predicciones y visualización:
+                              * El modelo predice la categoría de prendas de vestir: T-shirt, Trouser, Pullover, Dress, etc.
+                              * Guarda algunas imágenes de prueba en formato PNG.
+Tecnologías Utilizadas
+                              * TensorFlow para la creación y entrenamiento del modelo de clasificación.
+                              * Flask para la implementación de un servidor web que maneja peticiones de predicción.
+                              * NumPy y PIL para el procesamiento de imágenes.
+                              * Fashion MNIST como conjunto de datos de entrada.
+Cómo Ejecutarlo
+                              1. Entrenamiento: Ejecutar el script de Python para entrenar el modelo de clasificación.
+                              2. Predicciones: Iniciar el servidor HTTP que proporcionará predicciones a las imágenes enviadas a través de solicitudes POST.
+bash
+Copiar código
+python script.py
+
+
+                              3. Acceso al servidor: El servidor se ejecuta en el puerto 8000 y espera solicitudes POST con imágenes en formato JSON.
+Notas
+Este proyecto es ideal para crear una aplicación de predicción de imágenes usando un modelo preentrenado o personalizarlo para otras tareas de clasificación.
+
+
+—--------------------------------------
+
+
+
+
+README - Uso de la librería Konva.js en un Editor de Texto Enriquecido
+Este README proporciona una breve descripción y guía de uso de un editor de texto enriquecido que utiliza la librería Konva.js para la manipulación y renderizado de contenido en un lienzo. El editor permite a los usuarios crear y formatear contenido enriquecido y luego exportarlo como una imagen JPG. A continuación, se detallan los principales componentes y funcionalidades del código proporcionado.
+Descripción General
+El código proporcionado es un ejemplo de un editor de texto enriquecido que utiliza la librería Quill para la edición de contenido y la librería Konva.js para renderizar el contenido en un lienzo interactivo. El objetivo principal es permitir a los usuarios crear contenido enriquecido y luego exportarlo como una imagen JPG. A continuación, se describen los componentes y funcionalidades clave del código:
+1. Configuración de Quill
+El editor Quill se inicializa en un contenedor con un botón de formato personalizado ("negrita" en este caso). Los cambios realizados en el editor Quill se capturan y actualizan en un objeto JSON.
+2. Lienzo Konva.js
+Se crea un lienzo Konva.js en el que se renderizará el contenido del editor de Quill como una imagen. Se establecen propiedades como el tamaño del lienzo y se agrega una capa para los elementos dibujables.
+3. Renderizado de Contenido Visible
+Se proporciona una función renderVisibleText() que toma el contenido visible del editor Quill y lo convierte en una imagen utilizando la librería html2canvas. Esto asegura que solo el contenido visible se renderice en el lienzo Konva.js.
+4. Exportación a JPG
+Se incluye un botón "Guardar JPG" que permite a los usuarios exportar el contenido del editor como una imagen JPG. Se utiliza html2canvas para convertir el contenido visible en una imagen y luego se ofrece la descarga de la misma.
+Uso de la librería Konva.js
+La librería Konva.js se utiliza principalmente para crear un lienzo interactivo en el que se renderiza el contenido del editor Quill como una imagen. Esto permite la manipulación y exportación del contenido enriquecido. A continuación, se destacan algunas de las funciones clave relacionadas con Konva.js:
+                              * Konva.Stage: Se crea un lienzo Konva.Stage en un contenedor especificado y se define su tamaño.
+
+                              * Konva.Layer: Se agrega una capa al lienzo donde se colocarán los elementos dibujables.
+
+                              * Konva.Image: Se crea una imagen Konva que representará el contenido del editor Quill. Esta imagen es draggable y puede ser manipulada.
+
+                              * renderVisibleText(): Esta función utiliza la librería html2canvas para convertir el contenido visible del editor Quill en una imagen y la muestra en el objeto Konva.Image.
+
+Cómo Guardar el Contenido como JPG
+El código proporciona un botón "Guardar JPG" que permite a los usuarios exportar el contenido del editor como una imagen JPG. El proceso involucra los siguientes pasos:
+                                 1. Se obtiene una referencia al elemento que contiene el contenido del editor Quill.
+
+                                 2. Se utiliza la librería html2canvas para convertir el contenido en una imagen. Se especifica un fondo blanco para asegurar una apariencia adecuada.
+
+                                 3. La imagen generada se convierte en un enlace de descarga.
+
+                                 4. Se simula un clic en el enlace para iniciar la descarga de la imagen JPG.
+
+Nota
+Para un funcionamiento adecuado, es necesario incluir las librerías Quill, Konva.js y html2canvas en su proyecto.
+Este README proporciona una visión general del código y su uso de la librería Konva.js en un editor de texto enriquecido. Si necesita más detalles o ayuda con la implementación, no dude en ponerse en contacto con el equipo de desarrollo.
+—-----------------------------------------
+
+
+
+
+README: Validación de Formulario en JavaScript
+Este script implementa la validación en tiempo real de un formulario web, asegurando que los datos ingresados sean correctos antes de enviarlos. Utiliza JavaScript para verificar campos de texto, NIF, email, teléfono, fecha de nacimiento, y otros, además de habilitar/deshabilitar ciertos campos según las interacciones del usuario.
+Características
+                                    * Validación de campos: Verifica si los campos de texto como "Apellidos", "Nombre", "Email", "Teléfono", "NIF", y "Fecha de nacimiento" tienen un formato correcto.
+                                    * Control de checkbox: Habilita o deshabilita un selector de frecuencia según si se han marcado ciertos checkboxes.
+                                    * Contador de caracteres: Muestra el número de palabras y caracteres de un campo de observaciones y valida si no excede los límites.
+                                    * Confirmación antes de enviar: Solicita una confirmación al usuario antes de enviar el formulario.
+Funcionalidades
+                                    1. Validación en tiempo real de los campos del formulario:
+                                    * Apellidos: Solo letras y espacios.
+                                    * Nombre: Solo letras y espacios.
+                                    * NIF: 8 dígitos seguidos de una letra. Validación automática de la letra.
+                                    * Email: Formato válido de email.
+                                    * Teléfono: Solo 9 dígitos.
+                                    * Fecha de nacimiento: Formato dd/mm/aaaa.
+                                    2. Checkboxes dinámicos: Habilita/deshabilita el selector de frecuencia basado en los síntomas seleccionados.
+                                    3. Límites de observaciones: Controla el número de palabras y caracteres en un campo de observaciones.
+                                    4. Confirmación de envío: Solicita confirmación antes de enviar el formulario.
+Uso
+                                    1. Incluir el script en el archivo HTML donde esté el formulario.
+                                    2. Personalizar los campos de acuerdo con los IDs de los elementos del formulario (ej. apellidos, nombre, nif, etc.).
+                                    3. Asegurar que los campos de validación tengan los atributos correspondientes en el HTML (ej. type="email", pattern, etc.).
+Ejemplo de HTML
+html
+Copiar código
+<form id="formulario">
+  <input type="text" id="apellidos" pattern="[A-Za-z ]+" required>
+  <input type="text" id="nombre" pattern="[A-Za-z ]+" required>
+  <input type="text" id="nif" pattern="\d{8}[A-Za-z]" required>
+  <input type="email" id="email" required>
+  <input type="tel" id="telefono" pattern="\d{9}" required>
+  <input type="date" id="nacimiento" required>
+  <textarea id="observaciones"></textarea>
+  <button type="submit" onclick="mostrarConfirmacion(event)">Enviar</button>
+</form>
+
+
+Instalación
+No se requieren dependencias externas. Solo es necesario incluir este script en una página HTML con el formulario adecuado.
+Autor
+Desarrollado por [Tu nombre o equipo de desarrollo].
+—------------------------------------------------------------------------
+
+
+
+
+README: Android Manifest for Camera and Flashlight App
+This is an XML manifest file for an Android app that requires camera and flashlight permissions. It includes:
+                                    * Permissions:
+                                    * Camera (android.permission.CAMERA)
+                                    * Flashlight (android.permission.FLASHLIGHT)
+                                    * App Configuration:
+                                    * Supports backup configurations (data extraction and content backup rules).
+                                    * Defines app icon and label.
+                                    * Specifies the theme and RTL (Right-To-Left) support.
+                                    * Main Activity:
+                                    * The app's entry point, specified with an intent filter for launching the app.
+Key Features
+                                    * Camera and Flashlight permissions for accessing device hardware.
+                                    * App theme and backup configurations set for backup operations.
+                                    * Supports modern Android features with backup rules.
+Usage
+Ensure your app has access to the camera and flashlight and handles those features correctly within the app's code. This manifest sets up permissions and app launch settings.
+
+
+
