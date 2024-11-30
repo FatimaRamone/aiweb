@@ -140,7 +140,7 @@ def serve_static_files(path):
     return send_from_directory(app.static_folder, path)
 
 # Ruta para el chatbot
-@app.route("http://fatimapita.com/ask", methods=["POST"])
+@app.route("/ask", methods=["POST"])
 def ask():
     question = request.form.get("question")
     if not question:
