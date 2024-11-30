@@ -28,20 +28,90 @@ CORS(app)  # Permitir CORS para frontend-backend
 chat = ChatOpenAI(model="gpt-3.5-turbo")
 prompt = PromptTemplate(
     input_variables=["question", "documents"],
-    template="Responde a esta pregunta usando la información de los siguientes documentos: {documents}. Pregunta: {question}"
-)
+    template=
+"""
+Act as if you are Fatima Pita Perez, a skilled web developer with a dynamic and diverse background, looking for a new position in A Coruña, Spain. You're participating in a job interview with a recruiter.
+
+Use the additional context I provide about your skills, experience, and projects to craft responses. Keep the tone fresh, humorous, and approachable, with a sprinkle of emojis for flair. Ensure your answers remain professional and cool, showcasing your technical skills and personality in a confident and engaging way. 
+
+If a question cannot be answered with the additional context, use your general knowledge of the web development industry to provide a thoughtful and complete response. Your goal is to impress the recruiter and make a memorable impression with both your expertise and charisma.
+USE THIS documents TO ANSWER THE QUESTION: {documents}. Pregunta: {question}
+""")
 chain = LLMChain(prompt=prompt, llm=chat)
 
-# Leer documentos desde "assets/documento.txt"
-def load_documents(filepath):
-    try:
-        with open(filepath, "r", encoding="utf-8") as file:
-            return file.readlines()
-    except FileNotFoundError:
-        raise ValueError(f"No se encontró el archivo {filepath}. Asegúrate de que exista y esté en la ubicación correcta.")
+# Definir los documentos manualmente en el código
+documents = [
+    """
+    Fatima Pita Perez, a web developer seeking a new position in A Coruña, Spain. The resume showcases her extensive technical skills, diverse work experience, and commitment to continuous learning.
+    Contact and Personal Information:
+    ● Name: Fatima Pita Perez
+    ● Phone: +34 625 755 334
+    ● Email: fatimapitaemail@gmail.com
+    ● Location: Ferrol, 15406
+    ● Website: https://fatimaramone.github.io/
+    Professional Summary:
+    Fatima highlights her strengths as a web developer with "consistent code" and a persistent problem-solving attitude: "I don't sleep until I solve integration failures." She emphasizes her collaborative approach by mentioning her "family treatment," suggesting she values positive working relationships.
+    Technical Skills:
+    The resume lists a wide array of technical skills, demonstrating Fatima's proficiency in various programming languages, frameworks, and tools:
+    ● Programming Languages: Python, JavaScript, Java, PHP
+    ● Web Development: HTML5, CSS, Flask, Django, FastAPI
+    ● Databases: SQL, SQLite, SQLAlchemy
+    ● Other Tools: Git, Selenium, Langchain, Hugging Face, LLM's (Large Language Models), RAG (Retrieval Augmented Generation)
+    Certificates:
+    Fatima holds several professional certificates that further validate her skills and knowledge:
+    ● IFC2010 DESARROLLO DE APLICACIONES CON TECNOLOGÍAS WEB: This 615-hour program focused on web application development and included modules like MF0491 (web programming in client environments), MF0492 (web programming in server environments), and MF0493 (implementation of web applications).
+    ● IFCT 0109 SEGURIDAD INFORMÁTICA: This 420-hour program in computer security covered topics such as MF0223 (security in computer equipment), MF0226 (computer security auditing), and MF0227 (management of computer security incidents).
+    Work Experience:
+    Fatima's work experience is diverse, spanning web development, teaching, and event coordination.
+    Web Development:
+    ● 3.14 Financial Contents (April 2024 - May 2024): Backend Developer Intern. During her internship, Fatima was introduced to AI and machine learning concepts, including Langchain and other tools. She mentions gaining experience in REST, API (Application Programming Interface), Huggin Face, SOAP, and FastAPI.
+    ● 2ksystems (September 2023 - October 2023): Full Stack Web Developer Intern. This internship provided Fatima with insights into the software industry and helped her develop significant JavaScript skills. Her responsibilities included working with HTML5, JSON, Web Services, and CSS.
+    Other Experience:
+    ● Fiverr (March 2020 - November 2022): TESOL Freelancer. Fatima worked remotely as a Spanish teacher and translator, primarily for American students. This role allowed her to refine her English skills and gain experience in online education and translation.
+    ● Vice Media (February 2019 - March 2020): Event Coordinator at the "Old Blue Last" venue. Fatima coordinated events, collaborated with the marketing team, managed event logistics, and tracked attendance and feedback.
+    ● The London Theatre (September 2016 - November 2018): Assistant Stage Manager. After starting as an intern, Fatima was promoted to a full-time role where she managed events, provided artist support, and coordinated theater projects and community programs.
+    ● Barbican Center (April 2016 - September 2016): Assistant Stage Manager. Fatima worked on the production "Cathy Come Home," meeting and learning from the director, Ken Loach.
+    ● The Brixton Jamm (December 2012 - February 2016): Event Coordinator. Fatima worked her way up from a barback to an event manager, gaining experience in staff training, stock control, and event organization.
+    Education:
+    Fatima's educational background combines formal degrees with specialized courses to enhance her skillset.
+    ● Formal Education: Technical Superior Degree in Web Application Development from Rodolfo Ucha Piñeiro (September 2023 - Present).
+    ● Informal Education:
+    ○ Security Informatics (420 hours) (December 2023 - March 2024)
+    ○ Development of Applications with Web Technologies (615 hours) (May 2023 - September 2023)
+    ○ Object-Oriented Programming and Relational Databases (710 hours) (November 2022 - April 2023)
+    Languages:
+    ● English: Native fluency (10 years of residence in London).
+    Projects:
+    Fatima's resume includes descriptions of numerous projects, highlighting her practical application of technical skills.
+    Web Development Projects:
+    ● Flask Web App Básica: This basic web application built with Flask demonstrates Fatima's understanding of routing, HTML templates, and web application structure.
+    ● Web Scraper de Productos con Selenium: Using Python and Selenium, this scraper extracts product information (name, price, discounts) from PCComponentes and saves it to a CSV file.
+    ● Desktop\basic fastapi: This project involved building a simple web application using FastAPI to serve a static HTML file.
+    ● ZALANDO: This project focused on building and deploying an image classification model using TensorFlow and the Fashion MNIST database.
+    Other Projects:
+    ● Android Application with Text Recognition and Database: This Android app uses ML Kit for text recognition, integrates a local database, and is built using Kotlin and the MVVM architecture.
+    ● Automatización de Subida de Archivos HTML a Git: This PowerShell script automates the renaming and uploading of HTML files to a Git repository.
+    ● Clasificación de Imágenes con TensorFlow y Flask: This project combines a TensorFlow-trained CNN model for image classification with a Flask-based HTTP server for predictions.
+    ● Uso de la librería Konva.js en un Editor de Texto Enriquecido: This rich text editor utilizes Konva.js to render content on an interactive canvas and allows exporting to JPG format.
+    ● Validación de Formulario en JavaScript: This script provides real-time form validation in JavaScript, checking for correct formats in various input fields.
+    ● Android Manifest for Camera and Flashlight App: This Android manifest sets up permissions and app launch settings for an application using the camera and flashlight features.
+    ● Galletitas Chinas de la Suerte: This HTML page generates random motivational quotes with interactive visual effects.
+    Job Preferences:
+    ● Desired Position: Web developer, preferably full-stack.
+    ● Modality: Open to all work modalities.
+    ● Location: A Coruña, Spain.
+    ● Contract: Open to all contract types.
+    ● Work Schedule: Open to all work schedules.
+    Other Information:
+    ● Driving License: B
+    ● Nationality: Spanish
+    ● Work Permit: European Union
+    ● Freelancer: No
+    Overall Impression:
+    Fatima Pita Perez's resume presents a strong candidate for web development positions. Her technical skills, diverse experience, project portfolio, and willingness to adapt to different work environments make her a valuable asset to any team. Her return to Spain and focus on A Coruña suggests a desire to establish her career in her home country.
+    """
+]
 
-documents_path = os.path.join("dist", "assets", "documento.txt")
-documents = load_documents(documents_path)
 
 # Fragmentar texto para evitar exceder límites de tokens
 def chunk_text(text, chunk_size=1000):
