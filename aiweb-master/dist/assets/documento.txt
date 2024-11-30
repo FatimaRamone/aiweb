@@ -1,0 +1,276 @@
+Name: Fatima Pita Perez  
+Location: Ferrol, 15406  
+Phone: +34 625 755 334  
+Email: fatimapitaemail@gmail.com  
+GitHub: https://fatimaramone.github.io/  
+LinkedIn: https://www.linkedin.com/in/fatima-pita-b6a2a6125/  
+
+Summary:  
+Fatima is a highly motivated and results-oriented web developer with 3 years of experience in software development. She transitioned into the tech industry after a diverse career in event coordination and stage management. Fatima prides herself on writing consistent code and solving problems until solutions are found. Her unique background provides her with strong organizational and problem-solving skills that enhance her work in software projects.
+
+Technical Skills:  
+Programming Languages: Python, JavaScript, Kotlin, HTML5, CSS, SQL, PHP, Java  
+Web Frameworks: Flask, Django, FastAPI  
+Other Frameworks and Libraries: Langchain, Selenium, SQLAlchemy, React, Node.js, Android SDK, ML Kit, Room Database  
+Tools and Technologies: Git, Hugging Face, REST, SOAP, API Development, Web Services, JSON, MVVM Architecture, PowerShell, ChromeDriver  
+
+Professional Experience:  
+Backend Developer (Internship), 3.14 Financial Contents (April 2024 - May 2024):  
+- Gained experience in backend development using Python, worked with Langchain for Machine Learning, participated in meetings and presentations.  
+
+Full Stack Web Developer (Internship), 2ksystems (September 2023 - October 2023):  
+- Developed skills in JavaScript and gained insight into the software development industry.  
+
+TESOL Freelancer, Fiverr (March 2020 - November 2022):  
+- Provided online Spanish lessons and completed translation projects while traveling Europe.  
+
+Event Coordinator, Vice Media (February 2019 - March 2020):  
+- Managed event logistics, promotion, and talent selection at the "Old Blue Last" venue in London.  
+
+Assistant Stage Manager, The London Theatre (September 2016 - November 2018):  
+- Managed events, provided artist support, coordinated theatrical projects and children's programs.  
+
+Assistant Stage Manager, Barbican Center (April 2016 - September 2016):  
+- Participated in the production of "Cathy Come Home," gaining valuable stage management experience.  
+
+Event Coordinator, The Brixton Jamm (December 2012 - February 2016):  
+- Supervised staff, managed inventory, handled cash, organized events including marketing, promotion, and talent booking.  
+
+Education:  
+Higher Technician in Web Application Development, Rodolfo Ucha Piñeiro (September 2023 - Present)  
+Cybersecurity (420 hours) (December 2023 - March 2024)  
+Web Application Development with Web Technologies (615 hours) (May 2023 - September 2023)  
+Object-Oriented Programming and Relational Databases (710 hours) (November 2022 - April 2023)  
+
+Languages:  
+English: Native (10 years of residency in London)  
+
+Projects:  
+DNS Management with DigitalOcean:  
+- A project where DNS records (CNAME and NS) were managed for the custom domain fatimapita.com using DigitalOcean. This involved configuring CNAME to point to a hosting service and setting up NS records for proper domain resolution.  
+
+Analytics Integration with Google Analytics 4 (GA4):  
+- Integrated Google Analytics 4 (GA4) into a website for traffic analysis and performance tracking. Used Google Tag Manager to deploy the Google Tag on the site, enabling detailed visitor data collection and analysis for optimizing user engagement.  
+
+Flask Basic Web App:  
+- A simple web application created with Flask, demonstrating routing, HTML templates, and basic web app structure.  
+
+Android Text Recognition App:  
+- An Android application using Kotlin, ML Kit for text recognition, and Room database for local data storage.  
+
+PCComponentes Web Scraper:  
+- A Python script that uses Selenium WebDriver to scrape product information (name, price, discounts) from PCComponentes and save it to a CSV file.  
+
+Automated HTML File Upload to Git:  
+- A PowerShell script that renames an HTML file with a timestamp and uploads it to a Git repository.  
+
+Image Classification with TensorFlow and Flask:  
+- A project that trains a CNN model on the Fashion MNIST dataset to classify images of clothing and uses Flask to create an HTTP server for predictions.  
+
+Rich Text Editor with Konva.js:  
+- A project utilizing Quill and Konva.js to build a rich text editor with the ability to export content as a JPG image.  
+
+JavaScript Form Validation:  
+- A script implementing real-time form validation using JavaScript, including checks for names, NIF, email, phone number, date of birth, and character limits.  
+
+Android Manifest for Camera and Flashlight App:  
+- Creation of an Android Manifest file defining permissions for an app using the camera and flashlight features.  
+
+"Fortune Cookies" HTML Page:  
+- An interactive HTML page that generates motivational phrases and floating heart animations when a button is clicked.  
+
+Basic FastAPI Web App:  
+- A basic example of a FastAPI web application that serves a static HTML file.  
+
+Zalando Image Classification Server:  
+- A project involving the development of an image classification model using TensorFlow and Fashion MNIST dataset, implemented as a web server using BaseHTTPRequestHandler to handle image prediction requests.  
+
+Additional Information:  
+Fatima is a highly motivated and passionate developer with a unique background in event coordination and stage management. She brings exceptional problem-solving skills and a results-driven mindset to her work in software development.  
+
+
+FATIMA PITA PEREZ
+
+
+PROGRAMACIÓN CON LENGUAJES
+ORIENTADOS A OBJETOS Y BASES
+DE DATOS RELACIONALES 630 horas
+GIT
+Flask\Django
+FastAPI
+POO
+SQL
+PYTHON
+HTML5\CSS
+LANGCHAIN
+Javascript
++34 625 755 334
+Ferrol , 15406
+fatimapitaemail@gmail.com
+Sistemas operativos y aplicaciones informáticas.
+Programación de bases de datos relacionales
+Programacion orientada a objetos
+FÁTIMA
+PITA
+web developer
+Emigrante retornada (+8 años en Reino Unido).
+Background previo como ayudante de dirección de escena.
+Código consistente.No duermo hasta que resuelvo los fallos
+de integración.
+Trato familiar.
+CERTIFICADOS
+HERRAMIENTAS
+https://fatimaramone.github.io/
+Programación web en entorno cliente
+Programación web en entorno servidor
+IFC2010 DESARROLLO DE APLICACIONES
+Implantación de aplicaciones web en contornos
+internet , intranet e extranet
+Web scraping
+MF0492
+CON TECNOLOGÍAS WEB. 615 horas
+MF0491
+MF0493
+MF0223
+MF0226
+MF0227
+IFC080
+Seguridad en equipos informáticos
+Auditoria de seguridad informática
+IFCT 0109 SEGURIDAD INFORMÁTICA 420 horas
+Gestión de incidentes de seguridad informática
+MF0487_3
+MF0486_3
+MF0488_3
+Gestión de servicios en el sistema informáticoMF0489_3
+Sistemas seguros de acceso y transmisión de datosMF0489_3
+Kali linux
+EXPERIENCIA
+LABORAL
+-Fiverr -March 2020 -Nov 2022 TESOL Freelancer
+-2kSystems - Sept 2023 web development w/ JavaScript
+-Vice Media - Feb 2019 -March 2020 Event Coordinador Old
+Blue Last VICE venue
+-The London Theatre - Sept 2016 -Nov 2018 Assistant Stage
+Manager
+-Barbican Center - April 2016 -Sept 2016 Assistant Stage
+Manager
+TÉCNICO SUPERIOR EN DESARROLLO DE
+APLICACIONES WEB
+Rodolfo Ucha Piñeiro
+Sept 2023- actualmente
+-3.14 financial contents- Abril-Mayo 2024 machine
+learning w/ Langchain
+Inglés
+
+
+
+
+Experiencia laboral
+*  3.14 Financial Contents 
+Backend developer
+3.14 Financial Contents・Desarrollo de programación
+Abril de 2024 - Mayo de 2024 (1 mes)
+Becario/a - Prácticas
+Durante mis prácticas en 3,14, aprendí muchísimo. Formar parte del equipo, atender a reuniones, crear presentaciones y convocar reuniones fueron algunas de mis responsabilidades. Pero lo más importante fue mi introducción a la IA. Allí, aprendí frameworks como Langchain y muchos otros conceptos y herramientas de machine learning.
+   * REST
+   * Interfaz de programación de aplicaciones (API)
+   * Huggin Face
+   * Langchain
+   * Python
+   * SOAP
+   * FastAPI
+   *    *  2ksystems 
+Full Stack web developer
+2ksystems・Programación, Consultoria y otras Activ. informaticas
+Septiembre de 2023 - Octubre de 2023 (1 mes)
+Becario/a - Prácticas
+Durante mis prácticas en 2ksystems, tuve la oportunidad de adentrarme en el mundo de las empresas de software y obtener una visión interna de su funcionamiento. Durante este tiempo, adquirí conocimientos significativos sobre JavaScript. Estas experiencias me brindaron una base sólida para comprender los procesos y dinámicas propias de la industria del software, y me permitieron crecer tanto profesional como personalmente.
+      * Diseño con Javascript
+      * HTML5
+      * JSON
+      * Web Services
+      * CSS (Cascading Style Sheets)
+      *       *  Fiverr 
+Profesor/a de idiomas
+Fiverr・Traducción
+Marzo de 2020 - Noviembre de 2022 (2 años y 8 meses)
+14 € - 18 € Bruto/hora
+Empleado/a
+Durante mi estadía en Londres, perfeccioné mi inglés y tras unos años en la ciudad, decidí emprender un viaje por Europa. Para financiar mi travesía, me sumergí en el mundo del trabajo remoto. En Fiverr, ofrecí mis servicios como profesora de español para estudiantes, mayormente estadounidenses, y también realicé proyectos de traducción, abarcando desde panfletos hasta videojuegos. Este trabajo no solo me permitió mantenerme mientras viajaba, sino también expandir mis habilidades lingüísticas y profesionales en la enseñanza y la traducción, mientras disfrutaba de la flexibilidad para explorar diferentes lugares y culturas
+      *  Vice Media 
+Event coordinator
+Vice Media・Activ. audiovisuales (cine, TV, Radio, sonido, edic.musical etc.)
+Febrero de 2019 - Marzo de 2020 (1 año y 1 mes)
+Empleado/a
+Trabajé coordinando los eventos de Vice Media en su local de Soreditch "Old Blue Last",. Supervisé la logística de los eventos, colaborando estrechamente con el equipo de marketing para promover la asistencia. Mantuve registros detallados de asistencia y comentarios de los asistentes, y participé en la selección de talentos y en la administración del presupuesto asignado para cada evento. Mantuve una actualización constante sobre las tendencias de la industria de eventos y entretenimiento.
+      *  The London Theatre 
+Production coordinator/Stage manager
+The London Theatre・Activ. audiovisuales (cine, TV, Radio, sonido, edic.musical etc.)
+Septiembre de 2016 - Noviembre de 2018 (2 años y 2 meses)
+15.000 € - 25.000 € Bruto/año
+Dirección / gerencia con 1 - 5 personas a cargo
+Después de tres meses como becaria en The London Theatre, fui contratada como empleada, donde continué dirigiendo eventos y brindando apoyo a artistas, además de asumir nuevas responsabilidades en la gestión y coordinación de proyectos teatrales y programas comunitarios para niños.
+      *  Barbican Theatre 
+Production coordinator/Stage manager
+Barbican Theatre・Activ. audiovisuales (cine, TV, Radio, sonido, edic.musical etc.)
+Febrero de 2016 - Septiembre de 2016 (7 meses)
+12 € - 22 € Bruto/hora
+Empleado/a
+Tuve la oportunidad de trabajar como asistente de dirección de escena en el Teatro Barbican. Allí, participé en la producción "Cathy Come Home", basada en una obra de Ken Loach al cual tuve el honor de conocer. Esta experiencia , aunque sólo durara unos meses, me marcó bastante.
+      *  The Brixton Jamm 
+Event coordinator
+The Brixton Jamm・Publicidad, RRPP y eventos
+Diciembre de 2012 - Febrero de 2016 (3 años y 2 meses)
+18.000 € - 22.000 € Bruto/año
+Mando intermedio con 21 - 50 personas a cargo (reportando a Director general)
+Fue uno de los primeros trabajos que tuve en Londres . Brixton Jamm es uno de los mejores clubes de música de la ciudad, y yo empecé recogiendo vasos, luego fui camarera, y más tarde ascendí a supervisora, donde me encargaba de formar y supervisar a todos los camareros, así como de llevar el control de stock y caja. También fui responsable de formar a la persona que ocuparía mi puesto, ya que más tarde fui ascendida a las oficinas en el piso de arriba. Allí me formaron en la gestión de eventos, donde tenía trato directo con artistas y organizaba eventos, ocupándome del marketing, difusión en medios, promociones , tratos con marcas,tramitar solicitudes de talento emergente , etc
+Tienes 9 años y 10 meses de experiencia
+Estudios
+Estudios reglados
+         *  Técnico Superior en Desarrollo Aplicaciones Web             * Ciclo Formativo Grado Superior
+            * Técnico Superior en Desarrollo Aplicaciones Web
+Rodolfo Ucha Piñeiro
+Septiembre de 2023 - Actualmente (1 año y 2 meses)
+Estudios no reglados
+               *  Seguridad Informática. 420 horas                   * Otros cursos y formación no reglada
+                  * Seguridad Informática. 420 horas
+Diciembre de 2023 - Marzo de 2024 (3 meses)
+                  *  Desarrollo de Aplicaciones con Tecnologías Web. 615 horas                      * Otros cursos y formación no reglada
+                     * Desarrollo de Aplicaciones con Tecnologías Web. 615 horas
+Mayo de 2023 - Septiembre de 2023 (4 meses)
+                     *  Programación orientada a objetos y bases de datos relacionales. 710 horas                         * Otros cursos y formación no reglada
+                        * Programación orientada a objetos y bases de datos relacionales. 710 horas
+Noviembre de 2022 - Abril de 2023 (5 meses)
+Idiomas
+                           * Inglés: Nativo
+He vivido en Londres durante 10 años.
+Habilidades
+                              * DjangoFastAPIFlaskHTML5SeleniumSQLAlchemyCSS (Cascading Style Sheets)GitHugging FaceJavaScriptLangchainLLM´SPythonRAGSQLSQLiteJavaPHP
+Otros datos
+Permiso de conducir
+B
+Vehículo propio
+No
+Nacionalidad (país)
+España
+Permiso de trabajo
+Unión Europea
+Autónomo
+No
+Preferencias laborales
+Puesto deseado
+Web developer, Programador/a web, Programador/a Full Stack
+Modalidad
+Todas las modalidades
+Provincia deseada
+A Coruña
+Contrato
+Todos los contratos
+Jornada laboral
+Todas las jornadas
+
+
+
+
+
