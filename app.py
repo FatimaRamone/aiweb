@@ -22,7 +22,7 @@ if not openai_api_key:
 
 # Crear la aplicación Flask
 app = Flask(__name__, static_folder="dist", static_url_path="")
-CORS(app)  # Permitir CORS para frontend-backend
+CORS(app, resources={r"/ask": {"origins": "https://www.fatimapita.com"}})
 
 # Configurar LangChain con OpenAI
 chat = ChatOpenAI(model="gpt-3.5-turbo")
