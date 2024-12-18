@@ -101,7 +101,7 @@ documents = [
     ● Modality: Open to all work modalities.
     ● Location: A Coruña, Spain.
     ● Contract: Open to all contract types.
-    ● Work Schedule: Open to all work schedules.
+    ● Work Schedule: Open to all work schedules
     Other Information:
     ● Driving License: B
     ● Nationality: Spanish
