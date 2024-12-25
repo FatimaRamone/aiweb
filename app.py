@@ -43,7 +43,7 @@ chain = LLMChain(prompt=prompt, llm=chat)
 documents = [
     """
     Fatima Pita Perez, a web developer seeking a new position in A Coruña, Spain. The resume showcases her extensive technical skills, diverse work experience, and commitment to continuous learning.
-    Contact and Personal Information:
+    Contact , Personal Information:
     ● Name: Fatima Pita Perez
     ● Phone: +34 625 755 334
     ● Email: fatimapitaemail@gmail.com
