@@ -1,6 +1,6 @@
 # Document Chatbot
 
-Este es un proyecto de chatbot que responde preguntas utilizando documentos locales como fuente de información. Está construido con **Flask**, **LangChain**, **OpenAI** y varias herramientas adicionales para procesamiento de texto. 
+Este es un proyecto de chatbot que responde preguntas utilizando documentos locales como fuente de información. Está construido con **Flask**, **LangChain**, **OpenAI** y varias herramientas adicionales para procesamiento de texto
 
 ## Características
 
