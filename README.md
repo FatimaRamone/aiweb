@@ -2,7 +2,7 @@
 
 Este es un proyecto de chatbot que responde preguntas utilizando documentos locales como fuente de información. Está construido con **Flask**, **LangChain**, **OpenAI** y varias herramientas adicionales para procesamiento de texto
 
-## Características
+## Características.
 
 - Carga documentos desde archivos externos.
 - Usa **TF-IDF** y **similaridad coseno** para encontrar documentos relevantes.
