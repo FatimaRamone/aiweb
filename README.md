@@ -7,8 +7,7 @@ Este es un proyecto de chatbot que responde preguntas utilizando documentos loca
 - Carga documentos desde archivos externos.
 - Usa **TF-IDF** y **similaridad coseno** para encontrar documentos relevantes.
 - Genera respuestas utilizando el modelo de OpenAI (GPT-3.5-turbo).
-- Incluye una interfaz web sencilla para interactuar con el chatbot
-
+- Incluye una interfaz web sencilla para interactuar con el chatbot.
 ## Requisitos Previos
 
 - Python 3.8 o superior.
