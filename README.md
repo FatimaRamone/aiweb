@@ -41,7 +41,7 @@ Ejecutar con Gunicorn
 
 Para iniciar el servidor en producción con Gunicorn:
 
-gunicorn --bind 0.0.0.0:8080 app:app
+
 
 Ejecutar en Desarrollo
 
